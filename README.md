@@ -15,7 +15,7 @@ All courses files for Firebase tutorials within Google MENA digtal days 2021.
 4. Firebase Cloud Firestore (Database) - part2: https://www.youtube.com/watch?v=ULb8AaATRoE
 5. Firebase Cloud storage: https://www.youtube.com/watch?v=4J-Ux7MGL8M
 6. Firebase Hosting: https://www.youtube.com/watch?v=3Lul8vBJ0kU
-7. Firebase Cloud Function (soon)
+7. Firebase Cloud Function: https://youtu.be/mZcZWYq4u9I
 8. .... more coming
 
 
